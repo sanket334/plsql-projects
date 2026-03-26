@@ -27,6 +27,27 @@ A backend system to manage employees, payroll processing, and salary calculation
 
 ---
 
+## 🔹 Banking Management System
+
+A backend banking system to manage accounts, transactions, and fund transfers.
+
+**Features:**
+- Account management
+- Deposit & withdrawal operations
+- Secure fund transfers
+- Transaction validation using triggers
+- Modular design using PL/SQL packages
+
+**Concepts Used:**
+- Tables & Constraints
+- Sequences
+- Stored Procedures & Functions
+- Triggers
+- Transaction Control
+- Packages
+
+👉 Location: `Banking-System/`
+
 ## 🔧 Tech Stack
 - Oracle SQL
 - PL/SQL
